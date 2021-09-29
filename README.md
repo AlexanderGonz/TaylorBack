@@ -1,4 +1,4 @@
-# Prueba Tecnica Tailor-hub backend
+# Technical test Tailor-hub backend
 
 ## 1. Clone the proyect on you local machine
 
