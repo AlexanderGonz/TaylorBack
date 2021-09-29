@@ -3,7 +3,7 @@
 ## 1. Clone the proyect on you local machine
 
 ## 2. Install dependencies 
-cd till you are in the right folder and the use 
+cd till you are in the right folder and then use 
 ```bash
 $ npm install
 ```
